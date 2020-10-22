@@ -777,7 +777,14 @@ input[type='checkbox'] {
 	margin-bottom: 1.875rem;
 }
 
+.bullet .fas{
+	color: #00bfd8;
+    line-height: 1.375rem;
+}
 
+.media-body{
+	margin-left: 0.625rem;
+}
 /*************************/
 /*     05. Customers     */
 /*************************/
