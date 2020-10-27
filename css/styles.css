@@ -781,7 +781,7 @@ input[type='checkbox'] {
 .header .header-content {
 	padding-top: 8rem;
 	padding-bottom: 4rem;
-	text-align: center;
+	/*text-align: center;*/
 }
 
 .header .text-container {
